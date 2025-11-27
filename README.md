@@ -16,7 +16,7 @@ With a strong foundation in Excel, SQL, Power BI, and Tableau, I’m committed t
 
 ## 🛠️ Core Competencies
 
-- **Languages & Tools:** SQL, Excel (Advanced), Python (Pandas, NumPy) (beginner–intermediate), Git & GitHub  
+- **Languages & Tools:** SQL, Excel (Advanced), Python (Pandas) (beginner–intermediate)  
 - **Visualization & BI:** Power BI, Tableau  
 - **Data Preparation:** Data Cleaning & Transformation, ETL  
 - **Business Intelligence:** Reporting & Insights Generation, Dashboard Design  
