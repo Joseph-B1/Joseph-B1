@@ -26,14 +26,11 @@ With a strong foundation in Excel, SQL, Power BI, and Tableau, I’m committed t
 
 ## 📊 Featured Projects
 
-### 🌟 [UK Data Job Insights 2025](https://github.com/KiranCorreya93/UK-Data-Job-Market-Analysis-2025.git)
-> Real-time analytics dashboard built from **6,000+ UK job listings**, highlighting **in-demand skills**, **salary trends**, and **career pathways**. Tools: **Python**, **Power BI**, **Data Wrangling**.
+### 🌟 [Superstore Sales Performance Dashboard](https://public.tableau.com/app/profile/joseph.bassey1913/viz/SuperstoreSalesDashboard_17637772442060/Dashboard1)
+> Real-time analytics dashboard built from **Superstore sales records**, highlighting **top products**, **sales trends**, and **best customers**. Tools: **SQL** and **Power BI**.
 
-### 🌟 [Sentiment Analysis Of Pizza Express Reviews](https://github.com/KiranCorreya93/Sentiment-Analysis-Of-Pizza-Express-Reviews)
-> Applied **NLP techniques** to analyze customer reviews and uncover actionable insights to improve customer experience for **Pizza Express Islington**.
-
-### 🌟 [Hospital Emergency Room Analysis Dashboard](https://github.com/KiranCorreya93/Hospital-Emergency-Power-Bi-Dashboard)
-> Designed an interactive **Power BI dashboard** analyzing hospital emergency room performance, covering **wait times**, **admissions**, and **referral trends**.
+### 🌟 [Analysis Of Walmart Sales Forecast](https://joseph-b1.github.io/powerbi.html)
+> Applied **calculated measures** to provide a comprehensive understanding of sales behavior across different time periods and store locations, enabling data-driven decision-making for inventory planning, promotions, and demand forecasting. Tools: **Power BI**.
 
 ---
 
