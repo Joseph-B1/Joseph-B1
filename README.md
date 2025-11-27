@@ -1,26 +1,26 @@
 <h1 align="center">Hi, I'm Joseph Bassey</h1>
 
 <p align="center">
-🎓 Certified Data Analyst &nbsp;|&nbsp; 💼 Data-Driven Problem Solver &nbsp;|&nbsp; 🌍 Based in the Nigeria, Open to Global Opportunities
+🎓 Certified Data Analyst &nbsp;|&nbsp; 💼 Data-Driven Problem Solver &nbsp;|&nbsp; 🌍 Based in Lagos, Nigeria; Open to Global Opportunities
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a results-driven Data Analyst with 7 years of corporate experience in problem-solving, business operations, and data analytics. My passion for data was sparked during my tenure at Amazon, where I leveraged SQL and Python-based tools to optimise processes and deliver measurable business outcomes.
+I’m a results-driven Data Analyst skilled in transforming raw datasets into clear business insights using SQL, Excel, and Power BI. Completed multiple analytics projects that revealed category-level profit losses, workforce trends, and operational inefficiencies across 10K+ records. Looking to drive measurable impact by supporting strategic decisions with accurate, insight-rich analysis
 
-With a strong foundation in SQL, Power BI, Python, and data storytelling, I’m committed to applying data-driven insights to solve real-world business challenges. I believe in continuous learning and constantly explore new tools, techniques, and methodologies to stay ahead in this dynamic field.
+With a strong foundation in Excel, SQL, Power BI, and Tableau, I’m committed to applying data-driven insights to solve real-world business challenges. I believe in continuous learning and constantly explore new tools, techniques, and methodologies to stay ahead in this dynamic field.
 
 ---
 
 ## 🛠️ Core Competencies
 
-- **Languages & Tools:** Python (Pandas, NumPy), SQL, Excel (Advanced), Git  
-- **Visualization & BI:** Power BI, Matplotlib, Seaborn  
-- **Data Engineering:** Data Cleaning, ETL, APIs, Selenium (for scraping)  
-- **Business Intelligence:** Reporting Automation, Dashboard Design  
-- **Analytics:** Exploratory Data Analysis (EDA), Statistical Analysis, Data Storytelling  
+- **Languages & Tools:** SQL, Excel (Advanced), Python (Pandas, NumPy) (beginner–intermediate), Git & GitHub  
+- **Visualization & BI:** Power BI, Tableau  
+- **Data Preparation:** Data Cleaning & Transformation, ETL  
+- **Business Intelligence:** Reporting & Insights Generation, Dashboard Design  
+- **Analytics:** Exploratory Data Analysis (EDA), Descriptive & Diagnostic Analysis, Data Storytelling  
 
 ---
 
@@ -40,11 +40,11 @@ With a strong foundation in SQL, Power BI, Python, and data storytelling, I’m 
 ## 📫 Let's Connect
 
 <p>
-<a href="https://www.linkedin.com/in/kiran-correya-a48578129" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KiranCorreya-blue?logo=linkedin&style=flat-square" />
+<a href="https://www.linkedin.com/in/joseph-bassey-a21792282" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JosephBassey-blue?logo=linkedin&style=flat-square" />
 </a>
 &nbsp;
-<a href="mailto:kirancorreyaft@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-kirancorreyaft@gmail.com-red?style=flat-square&logo=gmail" />
+<a href="mailto:josephbassey65@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-josephbassey65@gmail.com-red?style=flat-square&logo=gmail" />
 </a>
 </p>
